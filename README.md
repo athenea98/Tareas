@@ -1,5 +1,4 @@
-npm install
-cd dist/Tareas
-ng build --prod  
-http-server -p 8081
-http://localhost:8081
+1. npm install
+2. cd dist/Tareas
+3. http-server -p 8081
+4. http://localhost:8081
